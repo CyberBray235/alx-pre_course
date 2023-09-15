@@ -3,7 +3,7 @@ mandatory
 Step 0 - Create an account on GitHub [if you do not have one already]
 You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free here
 
-Step 1 - Create a Personal Access Token on Github
+#Step 1 - Create a Personal Access Token on Github
 To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
 
 You can follow this tutorial to create a token.
@@ -12,14 +12,14 @@ Once it’s created, you should have a token that looks like this:
 
 
 
-Step 2 - Update your profile on the Intranet
+#Step 2 - Update your profile on the Intranet
 Update your Intranet profile by adding your Github username here
 
 If it’s not done the Checker won’t be able to correct your work
 
 
 
-Step 3 - Create your first repository
+#Step 3 - Create your first repository
 Using the graphic interface on the github website, create your first repository.
 
 Name: alx-pre_course
@@ -28,12 +28,12 @@ Public repo
 No README, .gitignore, or license
 
 
-Step 4 - Open the sandbox
+#Step 4 - Open the sandbox
 On the intranet, just under the task, click on the button  and run to start the machine.
 
 Once the container is started, click on  to open a shell where you can start work from.
 
-Step 5 - Clone your repository
+#Step 5 - Clone your repository
 On the webterm of the sandbox, do the following:
 
 Clone your repository
@@ -46,7 +46,7 @@ Replace {YOUR_USERNAME} with your username from step 0 and 1
 
 Pro-Tip: On windows, use CTRL + A + V to paste in the web terminal
 
-Step 6 - Create the README.md and push the modifications
+#Step 6 - Create the README.md and push the modifications
 Navigate to this new directory. Tips
 root@896cf839cf9a:/# cd alx-pre_course/
 root@896cf839cf9a:/alx-pre_course#
